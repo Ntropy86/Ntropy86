@@ -1,5 +1,5 @@
 
-### Welcome to the World of [Neat-Stack](https://www.neat-stack.github.io) 👋
+### Welcome to the World of [Neat-Stack](https://neat-stack.github.io) 👋
 
 # My Toys
 
@@ -17,7 +17,7 @@
 
 | **Projects**       | **Forks**           |**Stars**  |
 | ------------- |:-------------:| -----:|
-| [Neat-Stack Portolio](https://www.neat-stack.github.io)      | ADD FORKS BADGE | ADD STARS |
+| [Neat-Stack Portolio](https://neat-stack.github.io)      | ADD FORKS BADGE | ADD STARS |
 | Camper      | ADD FORKS     |   ADD STARS |
 | #RD PROJECT | ADD FORKS      |    ADD STARS |
 
