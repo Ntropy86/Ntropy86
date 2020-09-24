@@ -2,7 +2,7 @@
 ### Welcome to the World🌌☄️  of:
 # [Neat-Stack](https://neat-stack.github.io) 🚀🚀
 
-<a href="https://rb.gy/5jvfyr"><img  src="./GitHub-Bio.png"></img></a>
+<img  src="./GitHub-Bio.png"></img></a>
 
 >    Designed  🖌️ **Neat-Stack**
 
