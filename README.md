@@ -19,7 +19,10 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
 <br>
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Neat-Stack&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br>
+
+
 
 | **Projects**       | **Issues**           |**Stars**  |
 | :-------------: |:-------------:| :-----:|
