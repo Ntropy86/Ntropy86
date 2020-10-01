@@ -19,13 +19,19 @@
   <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/adobe%20illustrator%20-%23FF9A00.svg?&style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/> <img src="https://img.shields.io/badge/figma%20-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white"/>
 
 <br>
+
+![Neat's github stats](https://github-readme-stats.vercel.app/api?username=Neat-Stack&show_icons=true&theme=tokyonight)
+
+
+
+
 <br>
 
-| **Projects**       | **Issues**           |**Stars**  |
+| **Projects**       | **Hits**           |**Stars**  |
 | :-------------: |:-------------:| :-----:|
-| [Neat-Stack Portolio](https://neat-stack.github.io)      | ADD Issues  | ADD STARS |
-| Camper      | ADD Issues     |   ADD STARS |
-| 3RD PROJECT | ADD Issues      |    ADD STARS |
+| [Neat-Stack Portolio](https://neat-stack.github.io)      | [![HitCount](http://hits.dwyl.com/Neat-Stack/Neat-Stack.svg)](http://hits.dwyl.com/Neat-Stack/Neat-Stack)  | <img src="https://img.shields.io/github/stars/Neat-Stack?style=for-the-badge"/> |
+| Camper      | ![HitCount](http://hits.dwyl.com/Neat-Stack/Neat-Stack.svg)     |   <img src="https://img.shields.io/github/stars/Neat-Stack?style=for-the-badge"/> |
+| 3RD PROJECT | ![HitCount](http://hits.dwyl.com/Neat-Stack/Neat-Stack.svg)      |    <img src="https://img.shields.io/github/stars/Neat-Stack?style=for-the-badge"/> |
 
 
 
