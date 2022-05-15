@@ -1,10 +1,10 @@
 
 ### Welcome to the World🌌☄️  of:
-# [Neat-Stack](https://neat-stack.github.io) 🚀🚀
+# [Ntropy](https://neat-stack.github.io) 🚀🚀
 
 [<img  src="./GitHub-Bio.png"></img>](https://rb.gy/efya7z)
 
->    Designed  🖌️ **Neat-Stack**
+>    Designed  🖌️ **MM/86**
 
 ## My Toys🪀
 
