@@ -20,7 +20,7 @@
 
 <br>
 
-![Neat's github stats](https://github-readme-stats.vercel.app/api?username=Neat-Stack&show_icons=true&theme=tokyonight)
+![Neat's github stats](https://github-readme-stats.vercel.app/api?username=Ntropy86&show_icons=true&theme=tokyonight)
 
 
 
