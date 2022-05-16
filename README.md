@@ -6,6 +6,21 @@
 
 >    Designed  🖌️ **MM/86**
 
+📊 **This week I spent my time on**
+
+
+
+<!--START_SECTION:waka-->
+```text
+React       1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   30 %  
+C++         24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09 % 
+Markdown    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03 %
+Other       -----               ██████████████████░░░░░░░   68 %
+```
+<!--END_SECTION:waka-->
+
+
+
 ## My Toys🪀
 
  - ### WebDev👨‍💻 
@@ -32,6 +47,13 @@
 | [Neat-Stack Portolio](https://neat-stack.github.io)      | [![HitCount](http://hits.dwyl.com/Neat-Stack/Neat-Stack.svg)](http://hits.dwyl.com/Neat-Stack/Neat-Stack)  | <img src="https://img.shields.io/github/stars/Neat-Stack?style=for-the-badge"/> |
 | Camper      | ![HitCount](http://hits.dwyl.com/Neat-Stack/Neat-Stack.svg)     |   <img src="https://img.shields.io/github/stars/Neat-Stack?style=for-the-badge"/> |
 | 3RD PROJECT | ![HitCount](http://hits.dwyl.com/Neat-Stack/Neat-Stack.svg)      |    <img src="https://img.shields.io/github/stars/Neat-Stack?style=for-the-badge"/> |
+
+
+
+
+
+
+
 
 
 
