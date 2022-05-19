@@ -2,6 +2,8 @@
 ### Welcome to the World🌌☄️  of:
 # [Ntropy](https://neat-stack.github.io) 🚀🚀
 
+UI/UX, Full Stack Developer, ML/AI , Shifting into Research on Brain Signal Processing
+
 [<img  src="./GitHub-Bio.png"></img>](https://rb.gy/efya7z)
 
 >    Designed  🖌️ **MM/86**
