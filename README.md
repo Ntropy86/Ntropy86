@@ -47,9 +47,6 @@ Other       -----               ████████████████
 | **Projects**       | **Hits**           |**Stars**  |
 | :-------------: |:-------------:| :-----:|
 | [Neat-Stack Portolio](https://neat-stack.github.io)      | [![HitCount](http://hits.dwyl.com/Neat-Stack/Neat-Stack.svg)](http://hits.dwyl.com/Neat-Stack/Neat-Stack)  | <img src="https://img.shields.io/github/stars/Neat-Stack?style=for-the-badge"/> |
-| Camper      | ![HitCount](http://hits.dwyl.com/Neat-Stack/Neat-Stack.svg)     |   <img src="https://img.shields.io/github/stars/Neat-Stack?style=for-the-badge"/> |
-| 3RD PROJECT | ![HitCount](http://hits.dwyl.com/Neat-Stack/Neat-Stack.svg)      |    <img src="https://img.shields.io/github/stars/Neat-Stack?style=for-the-badge"/> |
-
 
 
 
