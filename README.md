@@ -14,10 +14,11 @@ UI/UX, Full Stack Developer, ML/AI , Shifting into Research on Brain Signal Proc
 
 <!--START_SECTION:waka-->
 ```text
-React       1 hr 47 mins        █████████░░░░░░░░░░░░░░░░   30 %  
-C++         24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09 % 
-Markdown    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03 %
-Other       -----               ██████████████████░░░░░░░   68 %
+React       47 mins             █████████░░░░░░░░░░░░░░░░   30 %  
+C++         24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10 % 
+Markdown    5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02 %
+Node.js     1 hr                ████████████░░░░░░░░░░░░░   38 %
+Other       -----               ██████████░░░░░░░░░░░░░░░   20 %
 ```
 <!--END_SECTION:waka-->
 
