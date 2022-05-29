@@ -47,7 +47,7 @@ Other       -----               ██████████░░░░░░
 
 | **Projects**       | **Hits**           |**Stars**  |
 | :-------------: |:-------------:| :-----:|
-| [Neat-Stack Portolio](https://neat-stack.github.io)      | [![HitCount](http://hits.dwyl.com/Neat-Stack/Neat-Stack.svg)](http://hits.dwyl.com/Neat-Stack/Neat-Stack)  | <img src="https://img.shields.io/github/stars/Neat-Stack?style=for-the-badge"/> |
+| [Neat-Stack Portolio](https://ntropy86.github.io/Ntropy86Web/)      | [![HitCount](http://hits.dwyl.com/Neat-Stack/Neat-Stack.svg)](http://hits.dwyl.com/Ntropy86/Ntropy86)  | <img src="https://img.shields.io/github/stars/Neat-Stack?style=for-the-badge"/> |
 
 
 
