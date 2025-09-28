@@ -93,7 +93,7 @@
 
 ---
 
-## 🔥 Current Focus
+## 🔥 Currently my excuses for ghosting you:
 - 🚀 **Conversational Portfolio** → improving context-memory & AI-Mode analytics on [ntropy.dev](https://ntropy.dev)  
 - 📊 **Chicago Crimes App** → L1→L3 ETL, interactive H3 maps, recruiter-friendly lineage dashboards  
 - 🧩 **Metadata-Enricher Agents** → porting to **GCP Dataplex** & **Databricks Unity Catalog**  
@@ -102,13 +102,13 @@
 
 ---
 
-## 📚 Learning Next
+## 📚 Prorastinating on learning:
 - 🔥 **CUDA internals & GPU optimization** — bridging data-pipelines ↔ inference kernels  
 - 🤖 **Agentic AI for Data Engineering** — orchestrating column-profiling / lineage-aware agents on GCP & Databricks  
 
 ---
 
-## 🎭 Fun / Quirky Bits
+## 🎭 More bout me:
 - Lives by **diagram-first design** — if there’s no flowchart, it’s not finished.  
 - Maintains several **JSON-driven LaTeX resume variants** (SWE / DS / MLE / Researcher).  
 - Secret folder named `spaghetti-pipelines` (don’t ask).  
